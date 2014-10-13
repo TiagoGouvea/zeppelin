@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Call for Papers"
-date:   2014-07-21 09:00:00
+date:   2014-10-12 09:00:00
 isStaticPost: false
 ---
 Estamos a menos de um mês do DevFest Sudeste e agora é a hora exata para você submenter sua apresentação para o evento.
